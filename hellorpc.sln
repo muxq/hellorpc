@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hellorpc_s", "hellorpc_s\hellorpc_s.vcproj", "{87985CD5-5723-4B4E-A517-69DF7BFE5BF1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hellorpc_c", "hellorpc_c\hellorpc_c.vcproj", "{1B5BB3A7-E49C-4B98-B379-F919001EEDDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87985CD5-5723-4B4E-A517-69DF7BFE5BF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{87985CD5-5723-4B4E-A517-69DF7BFE5BF1}.Debug|Win32.Build.0 = Debug|Win32
+		{87985CD5-5723-4B4E-A517-69DF7BFE5BF1}.Release|Win32.ActiveCfg = Release|Win32
+		{87985CD5-5723-4B4E-A517-69DF7BFE5BF1}.Release|Win32.Build.0 = Release|Win32
+		{1B5BB3A7-E49C-4B98-B379-F919001EEDDE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B5BB3A7-E49C-4B98-B379-F919001EEDDE}.Debug|Win32.Build.0 = Debug|Win32
+		{1B5BB3A7-E49C-4B98-B379-F919001EEDDE}.Release|Win32.ActiveCfg = Release|Win32
+		{1B5BB3A7-E49C-4B98-B379-F919001EEDDE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
